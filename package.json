@@ -1,0 +1,24 @@
+{
+  "name": "watch-recursivly",
+  "version": "1.0.0",
+  "description": "Simple watch recursive fallback for linux ( fs.watch recursive option do not work on linux )",
+  "main": "watch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmasmejean/watch-recursivly.git"
+  },
+  "keywords": [
+    "fs.watch",
+    "watch",
+    "recursive"
+  ],
+  "author": "gmasmejean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gmasmejean/watch-recursivly/issues"
+  },
+  "homepage": "https://github.com/gmasmejean/watch-recursivly#readme"
+}
